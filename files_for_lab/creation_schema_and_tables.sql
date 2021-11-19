@@ -11,6 +11,7 @@ CREATE TABLE accidents(
     week_day VARCHAR(255),
     district VARCHAR(255),
     street VARCHAR(255),
+    number INT,
     id_accident VARCHAR(255),
     number_of_victims INT,
     type_of_accident VARCHAR(255),
@@ -39,6 +40,8 @@ CREATE TABLE postal_code(
     type_of_street VARCHAR(255),
     useless VARCHAR(255),
     street_name VARCHAR(255),
+    start_of_the_street INT,
+    end_of_the_street INT,
     postal_code INT,
     PRIMARY KEY (id)
 );
@@ -69,8 +72,40 @@ FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
+-- SECOND ROUND
+
+-- USING unique_accidents (obtained before from MYSQL) I'M GOING TO OBTAIN POSTAL CODES
 
 
+DROP TABLE unique_accidents;
+
+CREATE TABLE unique_accidents(
+	id INT,
+    second_id INT,
+    date DATE,
+    hour VARCHAR(255),
+    week_day VARCHAR(255),
+    district VARCHAR(255),
+    street VARCHAR(255),
+    number INT,
+    id_accident VARCHAR(255),
+    number_of_victims INT,
+    type_of_accident VARCHAR(255),
+    vehicle VARCHAR(255),
+    type_of_person VARCHAR(255),
+    gender VARCHAR(255),
+    gravity VARCHAR(255),
+    age VARCHAR(255),
+    id_district INT,
+    weekday_or_weekend VARCHAR(255),
+    PRIMARY KEY (id)
+);
+
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/unique_accidents.csv' 
+INTO TABLE unique_accidents 
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
 
 
 

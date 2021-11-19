@@ -137,12 +137,12 @@
 135,CALLE                   ,DE    ,MIGUEL DE UNAMUNO                               ,832,15.0,CALLE DE MIGUEL DE UNAMUNO                                     
 136,GLORIETA                ,DE    ,FRANCISCO DE LAS CABEZAS                        ,833,20.0,GLORIETA DE FRANCISCO DE LAS CABEZAS                           
 137,GLORIETA                ,DE    ,RICARDO VELAZQUEZ BOSCO                         ,834,20.0,GLORIETA DE RICARDO VELÁZQUEZ BOSCO                            
-138,PUENTE                  ,DE    ,FELIPE JUVARA                                   ,835,20.0,PUENTE DE FELIPE JUVARA                                        
+138,PUENTE                  ,DE    ,FELIPE JUVARA                                   ,835,16.0,PUENTE DE FELIPE JUVARA                                        
 139,CALLE                   ,DEL   ,MARQUESADO DE SANTA MARTA                       ,836,20.0,CALLE DEL MARQUESADO DE SANTA MARTA                            
 140,CALLE                   ,DE    ,JUAN RIZI                                       ,837,20.0,CALLE DE JUAN RIZI                                             
 141,CALLE                   ,DE    ,AGUETOL                                         ,838,21.0,CALLE DE AGUETOL                                               
 142,CALLE                   ,DE    ,ARTEMISA                                        ,839,21.0,CALLE DE ARTEMISA                                              
-143,CALLE                   ,DE    ,ARIADNA                                         ,840,8.0,CALLE DE ARIADNA                                               
+143,CALLE                   ,DE    ,ARIADNA                                         ,840,16.0,CALLE DE ARIADNA                                               
 144,TRAVESIA                ,DE    ,MARIA ZAMBRANO                                  ,841,15.0,TRAVESÍA DE MARÍA ZAMBRANO                                     
 145,CALLE                   ,DE    ,VALCOTOS                                        ,842,9.0,CALLE DE VALCOTOS                                              
 146,CALLE                   ,DE    ,VALDEZCARAY                                     ,843,9.0,CALLE DE VALDEZCARAY                                           
@@ -210,7 +210,7 @@
 208,CALLE                   ,DE    ,PAIPA                                           ,906,16.0,CALLE DE PAIPA                                                 
 209,CALLE                   ,DE    ,TORRESANDINO                                    ,907,16.0,CALLE DE TORRESANDINO                                          
 210,CALLE                   ,DE    ,MINAYA                                          ,908,16.0,CALLE DE MINAYA                                                
-211,GLORIETA                ,DEL   ,RIO URUBAMBA                                    ,909,16.0,GLORIETA DEL RÍO URUBAMBA                                      
+211,GLORIETA                ,DEL   ,RIO URUBAMBA                                    ,909,21.0,GLORIETA DEL RÍO URUBAMBA                                      
 212,CALLE                   ,DE    ,VALDESPINA                                      ,910,16.0,CALLE DE VALDESPINA                                            
 213,CALLE                   ,DE    ,MONTALBOS                                       ,911,16.0,CALLE DE MONTALBOS                                             
 214,CALLE                   ,DE    ,VERDE VIENTO                                    ,912,17.0,CALLE DE VERDE VIENTO                                          
@@ -263,7 +263,7 @@
 261,CALLE                   ,DE    ,FLORENCIO CANO CRISTOBAL                        ,960,14.0,CALLE DE FLORENCIO CANO CRISTÓBAL                              
 262,CALLE                   ,DE    ,EL PAULAR                                       ,961,14.0,CALLE DE EL PAULAR                                             
 263,CALLE                   ,DE    ,ALONSO DE CONTRERAS                             ,962,20.0,CALLE DE ALONSO DE CONTRERAS                                   
-264,CALLE                   ,DE    ,MANUEL AZAÑA                                    ,963,16.0,CALLE DE MANUEL AZAÑA                                          
+264,CALLE                   ,DE    ,MANUEL AZAÑA                                    ,963,15.0,CALLE DE MANUEL AZAÑA                                          
 265,TRAVESIA                ,DE    ,TELLEZ                                          ,964,3.0,TRAVESÍA DE TÉLLEZ                                             
 266,PLAZA                   ,DE LA ,VIRGEN DE LA PALOMA                             ,965,1.0,PLAZA DE LA VIRGEN DE LA PALOMA                                
 267,CALLE                   ,DE    ,ISABEL TINTERO                                  ,966,1.0,CALLE DE ISABEL TINTERO                                        
@@ -382,7 +382,7 @@
 380,GLORIETA                ,DE    ,LUXEMBURGO                                      ,1106,21.0,GLORIETA DE LUXEMBURGO                                         
 381,GLORIETA                ,DE    ,HAMBURGO                                        ,1107,21.0,GLORIETA DE HAMBURGO                                           
 382,GLORIETA                ,DE    ,SINTRA                                          ,1108,21.0,GLORIETA DE SINTRA                                             
-383,GLORIETA                ,DE    ,EDIMBURGO                                       ,1109,21.0,GLORIETA DE EDIMBURGO                                          
+383,GLORIETA                ,DE    ,EDIMBURGO                                       ,1109,16.0,GLORIETA DE EDIMBURGO                                          
 384,AVENIDA                 ,DEL   ,CONSEJO DE EUROPA                               ,1110,21.0,AVENIDA DEL CONSEJO DE EUROPA                                  
 385,CALLE                   ,DE LA ,RIBERA DEL SENA                                 ,1111,16.0,CALLE DE LA RIBERA DEL SENA                                    
 386,AVENIDA                 ,DEL   ,PARTENON                                        ,1112,21.0,AVENIDA DEL PARTENÓN                                           
@@ -582,7 +582,7 @@
 580,ESTACION DE METRO       ,      ,CANILLEJAS                                      ,1328,20.0,ESTACIÓN DE METRO CANILLEJAS                                   
 581,ESTACION DE METRO       ,      ,TORRE ARIAS                                     ,1329,20.0,ESTACIÓN DE METRO TORRE ARIAS                                  
 582,ESTACION DE METRO       ,      ,SUANZES                                         ,1330,20.0,ESTACIÓN DE METRO SUANZES                                      
-583,ESTACION DE METRO       ,      ,CIUDAD LINEAL                                   ,1331,15.0,ESTACIÓN DE METRO CIUDAD LINEAL                                
+583,ESTACION DE METRO       ,      ,CIUDAD LINEAL                                   ,1331,20.0,ESTACIÓN DE METRO CIUDAD LINEAL                                
 584,ESTACION DE METRO       ,DE    ,PUEBLO NUEVO                                    ,1332,15.0,ESTACIÓN DE METRO DE PUEBLO NUEVO                              
 585,ESTACION DE METRO       ,      ,QUINTANA                                        ,1333,15.0,ESTACIÓN DE METRO QUINTANA                                     
 586,ESTACION DE METRO       ,      ,EL CARMEN                                       ,1334,15.0,ESTACIÓN DE METRO EL CARMEN                                    
@@ -1480,7 +1480,7 @@
 1478,CAMINO                  ,DEL   ,BAÑIL                                           ,2376,8.0,CAMINO DEL BAÑIL                                               
 1479,CAMINO                  ,DE LA ,CASILLA DEL CEBO                                ,2377,8.0,CAMINO DE LA CASILLA DEL CEBO                                  
 1480,CAMINO                  ,DE    ,MAROTO                                          ,2378,8.0,CAMINO DE MAROTO                                               
-1481,CARRETERA               ,DE    ,LA MUÑOZA                                       ,2379,8.0,CARRETERA DE LA MUÑOZA                                         
+1481,CARRETERA               ,DE    ,LA MUÑOZA                                       ,2379,21.0,CARRETERA DE LA MUÑOZA                                         
 1482,CARRETERA               ,      ,PARTICULAR DEL TIRO DE PICHON                   ,2380,8.0,CARRETERA PARTICULAR DEL TIRO DE PICHÓN                        
 1483,CAMINO                  ,DE    ,VALTOMELLOSO A BALOTE                           ,2381,8.0,CAMINO DE VALTOMELLOSO A BALOTE                                
 1484,CAMINO                  ,DE LA ,ATALAYUELA                                      ,2382,8.0,CAMINO DE LA ATALAYUELA                                        
@@ -1542,7 +1542,7 @@
 1540,CALLE                   ,DE    ,NANTES                                          ,2441,20.0,CALLE DE NANTES                                                
 1541,CALLE                   ,DE    ,SUECIA                                          ,2442,20.0,CALLE DE SUECIA                                                
 1542,CALLE                   ,DE    ,SOFIA                                           ,2443,1.0,CALLE DE SOFÍA                                                 
-1543,CALLE                   ,DE    ,AUSTRIA                                         ,2444,16.0,CALLE DE AUSTRIA                                               
+1543,CALLE                   ,DE    ,AUSTRIA                                         ,2444,20.0,CALLE DE AUSTRIA                                               
 1544,PASEO                   ,DE    ,GINEBRA                                         ,2445,20.0,PASEO DE GINEBRA                                               
 1545,CALLE                   ,DE    ,MOSCU                                           ,2446,20.0,CALLE DE MOSCÚ                                                 
 1546,CALLE                   ,DE    ,OSLO                                            ,2447,20.0,CALLE DE OSLO                                                  
@@ -1653,7 +1653,7 @@
 1651,CALLE                   ,DE    ,ANTIOQUIA                                       ,2554,20.0,CALLE DE ANTIOQUÍA                                             
 1652,CALLE                   ,DE    ,CORUMBA                                         ,2555,20.0,CALLE DE CORUMBA                                               
 1653,POLIGONO                ,      ,CAMINO DE VASARES                               ,2556,18.0,POLÍGONO CAMINO DE VASARES                                     
-1654,POLIGONO                ,      ,OLIVAR DE LA HINOJOSA                           ,2557,16.0,POLÍGONO OLIVAR DE LA HINOJOSA                                 
+1654,POLIGONO                ,      ,OLIVAR DE LA HINOJOSA                           ,2557,21.0,POLÍGONO OLIVAR DE LA HINOJOSA                                 
 1655,POLIGONO                ,      ,ALTOS DEL HIPODROMO                             ,2558,9.0,POLÍGONO ALTOS DEL HIPÓDROMO                                   
 1656,PARQUE                  ,DE    ,JUAN CARLOS I                                   ,2566,21.0,PARQUE DE JUAN CARLOS I                                        
 1657,CALLE                   ,DE    ,MEDEA                                           ,2567,20.0,CALLE DE MEDEA                                                 
@@ -1725,7 +1725,7 @@
 1723,PARQUE                  ,DE LA ,MACETA                                          ,2639,19.0,PARQUE DE LA MACETA                                            
 1724,CALLE                   ,DE LOS,NOGALES                                         ,2640,2.0,CALLE DE LOS NOGALES                                           
 1725,JARDIN                  ,DEL   ,PROFESOR JOAQUIN GARRIGUES                      ,2641,9.0,JARDÍN DEL PROFESOR JOAQUÍN GARRIGUES                          
-1726,CAMINO                  ,DE    ,VASARES                                         ,2642,19.0,CAMINO DE VASARES                                              
+1726,CAMINO                  ,DE    ,VASARES                                         ,2642,18.0,CAMINO DE VASARES                                              
 1727,CALLE                   ,DE    ,AGUSTIN GARCIA MALLA                            ,2643,18.0,CALLE DE AGUSTÍN GARCÍA MALLA                                  
 1728,CALLE                   ,DE    ,CLAUDIO FERRERO FERRERO                         ,2644,18.0,CALLE DE CLAUDIO FERRERO FERRERO                               
 1729,CALLE                   ,DE    ,CESAR PASTOR LLOPIS                             ,2645,18.0,CALLE DE CÉSAR PASTOR LLOPIS                                   
@@ -1762,7 +1762,7 @@
 1760,CALLE                   ,DE    ,JOSEFINA CARABIAS                               ,2676,16.0,CALLE DE JOSEFINA CARABIAS                                     
 1761,CALLE                   ,DE    ,MARIA MOLINER                                   ,2677,16.0,CALLE DE MARÍA MOLINER                                         
 1762,PLAZA                   ,DE    ,CARMEN CONDE                                    ,2678,16.0,PLAZA DE CARMEN CONDE                                          
-1763,CALLE                   ,DE    ,ZENOBIA CAMPRUBI                                ,2679,16.0,CALLE DE ZENOBIA CAMPRUBÍ                                      
+1763,CALLE                   ,DE    ,ZENOBIA CAMPRUBI                                ,2679,21.0,CALLE DE ZENOBIA CAMPRUBÍ                                      
 1764,CALLE                   ,DE    ,MARGARITA XIRGU                                 ,2680,16.0,CALLE DE MARGARITA XIRGU                                       
 1765,CALLE                   ,DE    ,ELENA FORTUN                                    ,2681,16.0,CALLE DE ELENA FORTÚN                                          
 1766,CALLE                   ,DE    ,JULIO CARO BAROJA                               ,2682,16.0,CALLE DE JULIO CARO BAROJA                                     
@@ -1815,14 +1815,14 @@
 1813,CARRETERA               ,DEL   ,HIPODROMO                                       ,2732,9.0,CARRETERA DEL HIPÓDROMO                                        
 1814,JARDIN                  ,DEL   ,PARQUE DE TORRE ARIAS                           ,2733,20.0,JARDÍN DEL PARQUE DE TORRE ARIAS                               
 1815,CALLE                   ,DEL   ,AIRE                                            ,2734,21.0,CALLE DEL AIRE                                                 
-1816,CALLE                   ,DE LA ,RIBERA DEL LOIRA                                ,2735,21.0,CALLE DE LA RIBERA DEL LOIRA                                   
+1816,CALLE                   ,DE LA ,RIBERA DEL LOIRA                                ,2735,16.0,CALLE DE LA RIBERA DEL LOIRA                                   
 1817,CALLE                   ,DE    ,YERMA                                           ,2736,15.0,CALLE DE YERMA                                                 
 1818,GLORIETA                ,DE    ,PILAR MIRO                                      ,2737,16.0,GLORIETA DE PILAR MIRÓ                                         
 1819,PLAZA                   ,DE LA ,ASAMBLEA DE MADRID                              ,2739,13.0,PLAZA DE LA ASAMBLEA DE MADRID                                 
 1820,POLIGONO                ,      ,MONTECARMELO                                    ,2740,8.0,POLÍGONO MONTECARMELO                                          
 1821,POLIGONO                ,      ,LAS TABLAS                                      ,2741,8.0,POLÍGONO LAS TABLAS                                            
 1822,POLIGONO                ,      ,ENSANCHE DE CARABANCHEL                         ,2743,10.0,POLÍGONO ENSANCHE DE CARABANCHEL                               
-1823,POLIGONO                ,      ,ENSANCHE DE VALLECAS                            ,2746,21.0,POLÍGONO ENSANCHE DE VALLECAS                                  
+1823,POLIGONO                ,      ,ENSANCHE DE VALLECAS                            ,2746,18.0,POLÍGONO ENSANCHE DE VALLECAS                                  
 1824,POLIGONO                ,      ,ATALAYUELA                                      ,2747,18.0,POLÍGONO ATALAYUELA                                            
 1825,POLIGONO                ,      ,EL GATO                                         ,2748,17.0,POLÍGONO EL GATO                                               
 1826,POLIGONO                ,      ,LOS CERROS                                      ,2751,19.0,POLÍGONO LOS CERROS                                            
@@ -1851,7 +1851,7 @@
 1849,PARQUE                  ,DEL   ,ESPINILLO                                       ,2782,17.0,PARQUE DEL ESPINILLO                                           
 1850,PARQUE                  ,DE    ,VALLECAS VILLA                                  ,2783,18.0,PARQUE DE VALLECAS VILLA                                       
 1851,PARQUE                  ,DE    ,ENTREVIAS                                       ,2786,13.0,PARQUE DE ENTREVÍAS                                            
-1852,POLIGONO                ,      ,LOS ABEDULES                                    ,2789,19.0,POLÍGONO LOS ABEDULES                                          
+1852,POLIGONO                ,      ,LOS ABEDULES                                    ,2789,20.0,POLÍGONO LOS ABEDULES                                          
 1853,AVENIDA                 ,DE    ,SANTO DOMINGO DE LA CALZADA                     ,2790,8.0,AVENIDA DE SANTO DOMINGO DE LA CALZADA                         
 1854,CALLE                   ,DEL   ,CASTILLO DE CANDANCHU                           ,2791,8.0,CALLE DEL CASTILLO DE CANDANCHÚ                                
 1855,CALLE                   ,DE    ,CASTIELLO DE JACA                               ,2792,8.0,CALLE DE CASTIELLO DE JACA                                     
@@ -2063,7 +2063,7 @@
 2061,CALLE                   ,DE    ,ALAJATE                                         ,12600,12.0,CALLE DE ALAJATE                                               
 2062,CALLE                   ,DEL   ,ALAMBIQUE                                       ,12700,20.0,CALLE DEL ALAMBIQUE                                            
 2063,CALLE                   ,DE LA ,ALAMEDA                                         ,12800,1.0,CALLE DE LA ALAMEDA                                            
-2064,PASEO                   ,DE LA ,ALAMEDA DE OSUNA                                ,13000,21.0,PASEO DE LA ALAMEDA DE OSUNA                                   
+2064,PASEO                   ,DE LA ,ALAMEDA DE OSUNA                                ,13000,16.0,PASEO DE LA ALAMEDA DE OSUNA                                   
 2065,CALLE                   ,DE    ,ALAMEDILLA                                      ,13200,2.0,CALLE DE ALAMEDILLA                                            
 2066,CALLE                   ,DEL   ,ALAMILLO                                        ,13400,1.0,CALLE DEL ALAMILLO                                             
 2067,PLAZA                   ,DEL   ,ALAMILLO                                        ,13500,1.0,PLAZA DEL ALAMILLO                                             
@@ -2122,7 +2122,7 @@
 2120,CALLE                   ,DE    ,ALBUÑUELAS                                      ,18750,12.0,CALLE DE ALBUÑUELAS                                            
 2121,CALLE                   ,DE    ,ALBURQUERQUE                                    ,18800,7.0,CALLE DE ALBURQUERQUE                                          
 2122,CALLE                   ,DE    ,ALCACER TEJARES                                 ,18850,19.0,CALLE DE ALCÁCER TEJARES                                       
-2123,CALLE                   ,DE    ,ALCALA                                          ,18900,3.0,CALLE DE ALCALÁ                                                
+2123,CALLE                   ,DE    ,ALCALA                                          ,18900,15.0,CALLE DE ALCALÁ                                                
 2124,CALLE                   ,DE    ,ALCALA GALIANO                                  ,19000,7.0,CALLE DE ALCALÁ GALIANO                                        
 2125,CALLE                   ,DE    ,ALCALA DE GUADAIRA                              ,19100,13.0,CALLE DE ALCALÁ DE GUADAIRA                                    
 2126,CALLE                   ,DEL   ,ALCALDE ALFONSO VAZQUEZ                         ,19110,13.0,CALLE DEL ALCALDE ALFONSO VÁZQUEZ                              
@@ -2273,7 +2273,7 @@
 2271,CALLE                   ,DE    ,ALONSO MARTOS                                   ,35400,2.0,CALLE DE ALONSO MARTOS                                         
 2272,CALLE                   ,DE    ,ALONSO NUÑEZ                                    ,35500,6.0,CALLE DE ALONSO NÚÑEZ                                          
 2273,CALLE                   ,DE    ,ALONSO QUIJANO                                  ,35600,8.0,CALLE DE ALONSO QUIJANO                                        
-2274,CALLE                   ,DE    ,ALONSO SAAVEDRA                                 ,35700,16.0,CALLE DE ALONSO SAAVEDRA                                       
+2274,CALLE                   ,DE    ,ALONSO SAAVEDRA                                 ,35700,15.0,CALLE DE ALONSO SAAVEDRA                                       
 2275,PLAZA                   ,DE    ,ALOSNO                                          ,35750,19.0,PLAZA DE ALOSNO                                                
 2276,CALLE                   ,DE    ,ALORA                                           ,35800,13.0,CALLE DE ALORA                                                 
 2277,CALLE                   ,DE    ,ALOZAINA                                        ,36000,12.0,CALLE DE ALOZAINA                                              
@@ -2328,7 +2328,7 @@
 2326,CALLE                   ,DE    ,AMALIA MARCOS                                   ,42200,18.0,CALLE DE AMALIA MARCOS                                         
 2327,TRAVESIA                ,DE    ,AMALIA MARCOS                                   ,42300,18.0,TRAVESÍA DE AMALIA MARCOS                                      
 2328,CALLE                   ,DE    ,MANUEL MUIÑO ARROYO                             ,42400,10.0,CALLE DE MANUEL MUIÑO ARROYO                                   
-2329,AVENIDA                 ,DE    ,AMERICA                                         ,42500,15.0,AVENIDA DE AMÉRICA                                             
+2329,AVENIDA                 ,DE    ,AMERICA                                         ,42500,4.0,AVENIDA DE AMÉRICA                                             
 2330,PLAZA                   ,DE    ,AMERICA ESPAÑOLA                                ,42600,4.0,PLAZA DE AMÉRICA ESPAÑOLA                                      
 2331,CALLE                   ,DE LA ,AMISTAD                                         ,42750,11.0,CALLE DE LA AMISTAD                                            
 2332,CALLE                   ,DE LA ,AMNISTIA                                        ,42800,1.0,CALLE DE LA AMNISTÍA                                           
@@ -2356,7 +2356,7 @@
 2354,CALLE                   ,DE LOS,ANDALUCES                                       ,45550,13.0,CALLE DE LOS ANDALUCES                                         
 2355,CALLE                   ,DE LOS,ANDALUCES DEL POZO                              ,45575,13.0,CALLE DE LOS ANDALUCES DEL POZO                                
 2356,CALLE                   ,DE    ,ANDALUCIA                                       ,45600,3.0,CALLE DE ANDALUCÍA                                             
-2357,AVENIDA                 ,DE    ,ANDALUCIA                                       ,45700,18.0,AVENIDA DE ANDALUCÍA                                           
+2357,AVENIDA                 ,DE    ,ANDALUCIA                                       ,45700,12.0,AVENIDA DE ANDALUCÍA                                           
 2358,CALLE                   ,DEL   ,ANDARRIOS                                       ,45750,16.0,CALLE DEL ANDARRÍOS                                            
 2359,CALLE                   ,DE    ,ANDEVALO                                        ,45800,13.0,CALLE DE ANDÉVALO                                              
 2360,CALLE                   ,DE    ,ANDORRA                                         ,45950,16.0,CALLE DE ANDORRA                                               
@@ -2446,7 +2446,7 @@
 2444,CALLE                   ,DE    ,ANTONIO CALVO                                   ,56700,15.0,CALLE DE ANTONIO CALVO                                         
 2445,CALLE                   ,DE    ,ANTONIO CANTALEJO                               ,56800,15.0,CALLE DE ANTONIO CANTALEJO                                     
 2446,CALLE                   ,DE    ,ANTONIO CASERO                                  ,57000,3.0,CALLE DE ANTONIO CASERO                                        
-2447,CALLE                   ,DE    ,ANTONIO CAVERO                                  ,57100,16.0,CALLE DE ANTONIO CAVERO                                        
+2447,CALLE                   ,DE    ,ANTONIO CAVERO                                  ,57100,15.0,CALLE DE ANTONIO CAVERO                                        
 2448,CALLE                   ,DE    ,ANTONIO CORPAS                                  ,57300,11.0,CALLE DE ANTONIO CORPAS                                        
 2449,CALLE                   ,DE    ,ANTONIO CUMELLA                                 ,57301,14.0,CALLE DE ANTONIO CUMELLA                                       
 2450,CALLE                   ,DE    ,ANTONIO DURAN TOVAR                             ,57600,13.0,CALLE DE ANTONIO DURÁN TOVAR                                   
@@ -2637,7 +2637,7 @@
 2635,CALLE                   ,DE    ,ARTENERA                                        ,77600,15.0,CALLE DE ARTENERA                                              
 2636,CALLE                   ,DE    ,ARTESA DE SEGRE                                 ,77800,9.0,CALLE DE ARTESA DE SEGRE                                       
 2637,CALLE                   ,DE LA ,ARTESANIA                                       ,77900,17.0,CALLE DE LA ARTESANÍA                                          
-2638,PLAZUELA                ,DE LOS,ARTESANOS                                       ,78000,15.0,PLAZUELA DE LOS ARTESANOS                                      
+2638,PLAZUELA                ,DE LOS,ARTESANOS                                       ,78000,20.0,PLAZUELA DE LOS ARTESANOS                                      
 2639,CALLE                   ,DE LOS,ARTIFICES                                       ,78100,20.0,CALLE DE LOS ARTÍFICES                                         
 2640,PASEO                   ,DE LOS,ARTILLEROS                                      ,78200,19.0,PASEO DE LOS ARTILLEROS                                        
 2641,CALLE                   ,DE LOS,ARTISTAS                                        ,78300,6.0,CALLE DE LOS ARTISTAS                                          
@@ -2666,7 +2666,7 @@
 2664,CALLE                   ,DE LA ,ASUNCION                                        ,80000,12.0,CALLE DE LA ASUNCIÓN                                           
 2665,CALLE                   ,DE    ,ASUNCION CASTELL                                ,80100,6.0,CALLE DE ASUNCIÓN CASTELL                                      
 2666,CALLE                   ,DE    ,ASUNCION PEREZ VIZCAINO                         ,80400,15.0,CALLE DE ASUNCIÓN PÉREZ VIZCAÍNO                               
-2667,CALLE                   ,DE    ,ASURA                                           ,80500,15.0,CALLE DE ASURA                                                 
+2667,CALLE                   ,DE    ,ASURA                                           ,80500,16.0,CALLE DE ASURA                                                 
 2668,CALLE                   ,DEL   ,ATAJO                                           ,80600,7.0,CALLE DEL ATAJO                                                
 2669,CALLE                   ,DE LA ,ATALAYA                                         ,80700,5.0,CALLE DE LA ATALAYA                                            
 2670,CALLE                   ,DE    ,ATANAGILDO                                      ,80800,11.0,CALLE DE ATANAGILDO                                            
@@ -2769,7 +2769,7 @@
 2767,CALLE                   ,DE    ,BARBERAN                                        ,92400,8.0,CALLE DE BARBERÁN                                              
 2768,CALLE                   ,DE    ,BARBIERI                                        ,92600,1.0,CALLE DE BARBIERI                                              
 2769,CAMINO                  ,DE LA ,BARCA O DE LA CASA DE TILLY                     ,92650,19.0,CAMINO DE LA BARCA O DE LA CASA DE TILLY                       
-2770,CALLE                   ,DE LA ,BARCA                                           ,92700,19.0,CALLE DE LA BARCA                                              
+2770,CALLE                   ,DE LA ,BARCA                                           ,92700,15.0,CALLE DE LA BARCA                                              
 2771,CALLE                   ,DE    ,BARCARROTA                                      ,92800,21.0,CALLE DE BARCARROTA                                            
 2772,CALLE                   ,DE    ,BARCELO                                         ,92900,1.0,CALLE DE BARCELÓ                                               
 2773,CALLE                   ,DE    ,BARCELONA                                       ,93000,1.0,CALLE DE BARCELONA                                             
@@ -2831,7 +2831,7 @@
 2829,TRAVESIA                ,DE    ,BELEN                                           ,99200,1.0,TRAVESÍA DE BELÉN                                              
 2830,CALLE                   ,DEL   ,BELEÑO                                          ,99300,5.0,CALLE DEL BELEÑO                                               
 2831,CALLE                   ,DE    ,BELIANES                                        ,99400,16.0,CALLE DE BELIANES                                              
-2832,CALLE                   ,DE    ,BELISANA                                        ,99500,15.0,CALLE DE BELISANA                                              
+2832,CALLE                   ,DE    ,BELISANA                                        ,99500,16.0,CALLE DE BELISANA                                              
 2833,CALLE                   ,DE    ,BELLATRIX                                       ,99700,1.0,CALLE DE BELLATRIX                                             
 2834,CALLE                   ,DE LA ,BELLEZA                                         ,99800,4.0,CALLE DE LA BELLEZA                                            
 2835,CALLE                   ,DE    ,BELLVER                                         ,100000,6.0,CALLE DE BELLVER                                               
@@ -2992,7 +2992,7 @@
 2990,CALLE                   ,DE    ,BUENAVISTA                                      ,117200,1.0,CALLE DE BUENAVISTA                                            
 2991,CALLE                   ,DE    ,BUENDIA                                         ,117300,13.0,CALLE DE BUENDÍA                                               
 2992,AVENIDA                 ,DE    ,BUENOS AIRES                                    ,117400,13.0,AVENIDA DE BUENOS AIRES                                        
-2993,CALLE                   ,DE    ,BUESO PINEDA                                    ,117600,16.0,CALLE DE BUESO PINEDA                                          
+2993,CALLE                   ,DE    ,BUESO PINEDA                                    ,117600,15.0,CALLE DE BUESO PINEDA                                          
 2994,CALLE                   ,DE LA ,GAZANIA                                         ,117701,9.0,CALLE DE LA GAZANIA                                            
 2995,CALLE                   ,DE    ,BUGEDO                                          ,117800,21.0,CALLE DE BUGEDO                                                
 2996,CALLE                   ,DE    ,BUJALANCE                                       ,118000,10.0,CALLE DE BUJALANCE                                             
@@ -3272,7 +3272,7 @@
 3270,CALLE                   ,DE    ,CARRERO JUAN RAMON                              ,149200,11.0,CALLE DE CARRERO JUAN RAMÓN                                    
 3271,CALLE                   ,DE LAS,CARRETAS                                        ,149300,1.0,CALLE DE LAS CARRETAS                                          
 3272,CALLE                   ,DE LA ,CARRETERIA                                      ,149400,20.0,CALLE DE LA CARRETERÍA                                         
-3273,CALLE                   ,DEL   ,CARRIL DEL CONDE                                ,149500,16.0,CALLE DEL CARRIL DEL CONDE                                     
+3273,CALLE                   ,DEL   ,CARRIL DEL CONDE                                ,149500,15.0,CALLE DEL CARRIL DEL CONDE                                     
 3274,CALLE                   ,DE    ,CARRION DE LOS CONDES                           ,149675,16.0,CALLE DE CARRIÓN DE LOS CONDES                                 
 3275,CALLE                   ,DE LA ,CARROCERIA                                      ,149700,20.0,CALLE DE LA CARROCERÍA                                         
 3276,PLAZA                   ,DE LOS,CARROS                                          ,149750,1.0,PLAZA DE LOS CARROS                                            
@@ -3306,7 +3306,7 @@
 3304,CALLE                   ,DE    ,CASTELAR                                        ,153300,4.0,CALLE DE CASTELAR                                              
 3305,CALLE                   ,DE    ,CASTELLFLORITE                                  ,153400,11.0,CALLE DE CASTELLFLORITE                                        
 3306,CALLE                   ,DE LA ,CASTELLANA                                      ,153500,19.0,CALLE DE LA CASTELLANA                                         
-3307,PASEO                   ,DE LA ,CASTELLANA                                      ,153600,5.0,PASEO DE LA CASTELLANA                                         
+3307,PASEO                   ,DE LA ,CASTELLANA                                      ,153600,8.0,PASEO DE LA CASTELLANA                                         
 3308,PASEO                   ,DE LOS,CASTELLANOS                                     ,153700,11.0,PASEO DE LOS CASTELLANOS                                       
 3309,CALLE                   ,DE    ,CASTELLO                                        ,153800,4.0,CALLE DE CASTELLÓ                                              
 3310,CALLE                   ,DE    ,CASTELLON DE LA PLANA                           ,153900,5.0,CALLE DE CASTELLÓN DE LA PLANA                                 
@@ -3744,7 +3744,7 @@
 3742,CALLE                   ,DE    ,DAOIZ                                           ,233200,1.0,CALLE DE DAOÍZ                                                 
 3743,CALLE                   ,DE    ,DARIO APARICIO                                  ,233400,9.0,CALLE DE DARÍO APARICIO                                        
 3744,CALLE                   ,DE    ,DARIO GAZAPO                                    ,233445,10.0,CALLE DE DARÍO GAZAPO                                          
-3745,AVENIDA                 ,DE    ,DAROCA                                          ,233600,14.0,AVENIDA DE DAROCA                                              
+3745,AVENIDA                 ,DE    ,DAROCA                                          ,233600,19.0,AVENIDA DE DAROCA                                              
 3746,CALLE                   ,DEL   ,DARRO                                           ,233700,5.0,CALLE DEL DARRO                                                
 3747,CALLE                   ,DEL   ,DATIL                                           ,233800,11.0,CALLE DEL DÁTIL                                                
 3748,CALLE                   ,DE    ,DAVID LARA                                      ,233900,13.0,CALLE DE DAVID LARA                                            
@@ -3815,7 +3815,7 @@
 3813,CALLE                   ,DEL   ,DOCTOR FLEMING                                  ,241800,5.0,CALLE DEL DOCTOR FLEMING                                       
 3814,TRAVESIA                ,DEL   ,DOCTOR FLEMING                                  ,241825,5.0,TRAVESÍA DEL DOCTOR FLEMING                                    
 3815,CALLE                   ,DEL   ,DOCTOR FOURQUET                                 ,241900,1.0,CALLE DEL DOCTOR FOURQUET                                      
-3816,AVENIDA                 ,DEL   ,DOCTOR GARCIA TAPIA                             ,241950,14.0,AVENIDA DEL DOCTOR GARCÍA TAPIA                                
+3816,AVENIDA                 ,DEL   ,DOCTOR GARCIA TAPIA                             ,241950,19.0,AVENIDA DEL DOCTOR GARCÍA TAPIA                                
 3817,CALLE                   ,DEL   ,DOCTOR GOMEZ ULLA                               ,242000,4.0,CALLE DEL DOCTOR GÓMEZ ULLA                                    
 3818,CALLE                   ,DEL   ,DOCTOR GUIU                                     ,242200,8.0,CALLE DEL DOCTOR GUÍU                                          
 3819,CALLE                   ,DEL   ,DOCTOR HUERTAS                                  ,242300,5.0,CALLE DEL DOCTOR HUERTAS                                       
@@ -3928,7 +3928,7 @@
 3926,CALLE                   ,DEL   ,DUQUE DEL SEVILLANO                             ,254300,19.0,CALLE DEL DUQUE DEL SEVILLANO                                  
 3927,CALLE                   ,DEL   ,DUQUE DE TAMAMES                                ,254400,15.0,CALLE DEL DUQUE DE TAMAMES                                     
 3928,CALLE                   ,DEL   ,DUQUE DE TOVAR                                  ,254450,2.0,CALLE DEL DUQUE DE TOVAR                                       
-3929,CALLE                   ,DE LA ,DUQUESA DE CASTREJON                            ,254600,15.0,CALLE DE LA DUQUESA DE CASTREJÓN                               
+3929,CALLE                   ,DE LA ,DUQUESA DE CASTREJON                            ,254600,16.0,CALLE DE LA DUQUESA DE CASTREJÓN                               
 3930,CALLE                   ,DE LA ,DUQUESA DE PARCENT                              ,254700,10.0,CALLE DE LA DUQUESA DE PARCENT                                 
 3931,CALLE                   ,DE LA ,DUQUESA DE SANTOÑA                              ,254800,12.0,CALLE DE LA DUQUESA DE SANTOÑA                                 
 3932,CALLE                   ,DE LA ,DUQUESA DE TAMAMES                              ,254900,11.0,CALLE DE LA DUQUESA DE TAMAMES                                 
@@ -3993,7 +3993,7 @@
 3991,CALLE                   ,DE    ,EMBAJADORES                                     ,262000,1.0,CALLE DE EMBAJADORES                                           
 3992,GLORIETA                ,DE    ,EMBAJADORES                                     ,262100,1.0,GLORIETA DE EMBAJADORES                                        
 3993,CALLE                   ,DE    ,EMERENCIANA ZURILLA                             ,262300,9.0,CALLE DE EMERENCIANA ZURILLA                                   
-3994,CALLE                   ,DE    ,EMETERIO CASTAÑOS                               ,262500,16.0,CALLE DE EMETERIO CASTAÑOS                                     
+3994,CALLE                   ,DE    ,EMETERIO CASTAÑOS                               ,262500,15.0,CALLE DE EMETERIO CASTAÑOS                                     
 3995,CALLE                   ,DE    ,LOS EMIGRANTES                                  ,262550,16.0,CALLE DE LOS EMIGRANTES                                        
 3996,CALLE                   ,DE    ,EMILIA                                          ,262600,6.0,CALLE DE EMILIA                                                
 3997,CALLE                   ,DE    ,EMILIA BALLESTER                                ,262700,17.0,CALLE DE EMILIA BALLESTER                                      
@@ -4553,7 +4553,7 @@
 4551,CALLE                   ,DEL   ,GENERAL ALVAREZ DE CASTRO                       ,328400,7.0,CALLE DEL GENERAL ÁLVAREZ DE CASTRO                            
 4552,GLORIETA                ,DEL   ,GENERAL ALVAREZ DE CASTRO                       ,328500,7.0,GLORIETA DEL GENERAL ÁLVAREZ DE CASTRO                         
 4553,CALLE                   ,DEL   ,GENERAL AMPUDIA                                 ,328600,7.0,CALLE DEL GENERAL AMPUDIA                                      
-4554,CALLE                   ,DEL   ,GENERAL ARANAZ                                  ,328700,20.0,CALLE DEL GENERAL ARANAZ                                       
+4554,CALLE                   ,DEL   ,GENERAL ARANAZ                                  ,328700,16.0,CALLE DEL GENERAL ARANAZ                                       
 4555,CALLE                   ,DE    ,MATILDE LANDA                                   ,328800,6.0,CALLE DE MATILDE LANDA                                         
 4556,ESCALINATA              ,DE    ,MATILDE LANDA                                   ,328900,6.0,ESCALINATA DE MATILDE LANDA                                    
 4557,CALLE                   ,DEL   ,GENERAL ARRANDO                                 ,328925,7.0,CALLE DEL GENERAL ARRANDO                                      
@@ -4650,7 +4650,7 @@
 4648,CALLE                   ,DE    ,GOIRI                                           ,338400,6.0,CALLE DE GOIRI                                                 
 4649,CALLE                   ,DE    ,GOITIA                                          ,338500,15.0,CALLE DE GOITIA                                                
 4650,PLAZA                   ,DE LA ,GOLETA                                          ,338600,21.0,PLAZA DE LA GOLETA                                             
-4651,CALLE                   ,DEL   ,GOLFO DE SALONICA                               ,338800,14.0,CALLE DEL GOLFO DE SALÓNICA                                    
+4651,CALLE                   ,DEL   ,GOLFO DE SALONICA                               ,338800,16.0,CALLE DEL GOLFO DE SALÓNICA                                    
 4652,PLAZA                   ,DE    ,GOLMAYO                                         ,338815,16.0,PLAZA DE GOLMAYO                                               
 4653,CALLE                   ,DE    ,EL GOLOSO                                       ,339000,5.0,CALLE DE EL GOLOSO                                             
 4654,CALLE                   ,DE    ,GOMEZ ACEBO                                     ,339100,17.0,CALLE DE GÓMEZ ACEBO                                           
@@ -4698,7 +4698,7 @@
 4696,CALLE                   ,DE    ,GRAVINA                                         ,344000,1.0,CALLE DE GRAVINA                                               
 4697,CALLE                   ,DE    ,EL GRECO                                        ,344100,10.0,CALLE DE EL GRECO                                              
 4698,CALLE                   ,DEL   ,PINTOR EL GRECO                                 ,344150,9.0,CALLE DEL PINTOR EL GRECO                                      
-4699,CALLE                   ,DE    ,GREGORIO BENITEZ                                ,344600,15.0,CALLE DE GREGORIO BENÍTEZ                                      
+4699,CALLE                   ,DE    ,GREGORIO BENITEZ                                ,344600,16.0,CALLE DE GREGORIO BENÍTEZ                                      
 4700,AVENIDA                 ,DE    ,GREGORIO DEL AMO                                ,344650,9.0,AVENIDA DE GREGORIO DEL AMO                                    
 4701,CALLE                   ,DE    ,GREGORIO DONAS                                  ,344700,15.0,CALLE DE GREGORIO DONAS                                        
 4702,CALLE                   ,DE    ,GREGORIO NAVAS                                  ,344900,13.0,CALLE DE GREGORIO NAVAS                                        
@@ -4848,7 +4848,7 @@
 4846,CALLE                   ,DE    ,HINOJAL                                         ,363300,20.0,CALLE DE HINOJAL                                               
 4847,CALLE                   ,DE    ,GREGORIO LOPEZ MADERA                           ,363500,20.0,CALLE DE GREGORIO LÓPEZ MADERA                                 
 4848,CALLE                   ,DE    ,HIPOLITO ARAGONES                               ,363575,16.0,CALLE DE HIPÓLITO ARAGONÉS                                     
-4849,AVENIDA                 ,DE LA ,HISPANIDAD                                      ,363650,16.0,AVENIDA DE LA HISPANIDAD                                       
+4849,AVENIDA                 ,DE LA ,HISPANIDAD                                      ,363650,21.0,AVENIDA DE LA HISPANIDAD                                       
 4850,CALLE                   ,DEL   ,HOGAR DE BELEN                                  ,363660,20.0,CALLE DEL HOGAR DE BELÉN                                       
 4851,CALLE                   ,DE LA ,HOJALATERIA                                     ,363800,20.0,CALLE DE LA HOJALATERÍA                                        
 4852,CALLE                   ,DE    ,HOMERO                                          ,363900,3.0,CALLE DE HOMERO                                                
@@ -5303,7 +5303,7 @@
 5301,CALLE                   ,DE    ,JULIO CAMBA                                     ,423900,4.0,CALLE DE JULIO CAMBA                                           
 5302,CALLE                   ,DE    ,JULIO CHELLINI                                  ,424200,13.0,CALLE DE JULIO CHELLINI                                        
 5303,PLAZA                   ,DE    ,JULIO CORTAZAR                                  ,424250,11.0,PLAZA DE JULIO CORTÁZAR                                        
-5304,CALLE                   ,DE    ,JULIO DANVILA                                   ,424300,15.0,CALLE DE JULIO DANVILA                                         
+5304,CALLE                   ,DE    ,JULIO DANVILA                                   ,424300,16.0,CALLE DE JULIO DANVILA                                         
 5305,CALLE                   ,DE    ,JULIO DOMINGO                                   ,424400,11.0,CALLE DE JULIO DOMINGO                                         
 5306,CALLE                   ,DE    ,JULIO LOPEZ                                     ,424450,5.0,CALLE DE JULIO LÓPEZ                                           
 5307,CALLE                   ,DE    ,JULIO MERINO                                    ,424500,12.0,CALLE DE JULIO MERINO                                          
@@ -5472,7 +5472,7 @@
 5470,CALLE                   ,DE    ,LOPE DE VEGA                                    ,441000,1.0,CALLE DE LOPE DE VEGA                                          
 5471,CALLE                   ,DE    ,LOPEZ DE ARANDA                                 ,441100,15.0,CALLE DE LÓPEZ DE ARANDA                                       
 5472,CALLE                   ,DE    ,LOPEZ GRASS                                     ,441200,13.0,CALLE DE LÓPEZ GRASS                                           
-5473,CALLE                   ,DE    ,LOPEZ DE HOYOS                                  ,441300,15.0,CALLE DE LÓPEZ DE HOYOS                                        
+5473,CALLE                   ,DE    ,LOPEZ DE HOYOS                                  ,441300,4.0,CALLE DE LÓPEZ DE HOYOS                                        
 5474,GLORIETA                ,DE    ,LOPEZ DE HOYOS                                  ,441310,5.0,GLORIETA DE LÓPEZ DE HOYOS                                     
 5475,CALLE                   ,DE    ,LOPEZ MEZQUIA                                   ,441400,11.0,CALLE DE LÓPEZ MEZQUÍA                                         
 5476,CALLE                   ,DE    ,LOPEZ PUIGCERVER                                ,441500,9.0,CALLE DE LÓPEZ PUIGCERVER                                      
@@ -5694,7 +5694,7 @@
 5692,CALLE                   ,DE    ,MAQUEDA                                         ,468600,10.0,CALLE DE MAQUEDA                                               
 5693,CALLE                   ,DE LOS,MAQUILEROS                                      ,468700,20.0,CALLE DE LOS MAQUILEROS                                        
 5694,CALLE                   ,DE LA ,MAQUINARIA                                      ,468900,20.0,CALLE DE LA MAQUINARIA                                         
-5695,CALLE                   ,DEL   ,MAR AMARILLO                                    ,468902,16.0,CALLE DEL MAR AMARILLO                                         
+5695,CALLE                   ,DEL   ,MAR AMARILLO                                    ,468902,21.0,CALLE DEL MAR AMARILLO                                         
 5696,PLAZA                   ,DEL   ,MAR                                             ,468950,21.0,PLAZA DEL MAR                                                  
 5697,CALLE                   ,DEL   ,MAR DE LAS ANTILLAS                             ,469100,16.0,CALLE DEL MAR DE LAS ANTILLAS                                  
 5698,CALLE                   ,DEL   ,MAR DE ARAL                                     ,469200,16.0,CALLE DEL MAR DE ARAL                                          
@@ -5940,7 +5940,7 @@
 5938,CALLE                   ,DE    ,MEDINA DE POMAR                                 ,499400,21.0,CALLE DE MEDINA DE POMAR                                       
 5939,CALLE                   ,DEL   ,MEDIODIA CHICA                                  ,499500,1.0,CALLE DEL MEDIODÍA CHICA                                       
 5940,CALLE                   ,DEL   ,MEDIODIA GRANDE                                 ,499600,1.0,CALLE DEL MEDIODÍA GRANDE                                      
-5941,AVENIDA                 ,DEL   ,MEDITERRANEO                                    ,499700,3.0,AVENIDA DEL MEDITERRÁNEO                                       
+5941,AVENIDA                 ,DEL   ,MEDITERRANEO                                    ,499700,13.0,AVENIDA DEL MEDITERRÁNEO                                       
 5942,GLORIETA                ,DE LA ,MEDUSA                                          ,499800,16.0,GLORIETA DE LA MEDUSA                                          
 5943,CALLE                   ,DE    ,MEJIA LEQUERICA                                 ,500000,1.0,CALLE DE MEJÍA LEQUERICA                                       
 5944,CALLE                   ,DE    ,MEJICO                                          ,500200,4.0,CALLE DE MÉJICO                                                
@@ -5970,7 +5970,7 @@
 5968,CALLE                   ,DE    ,MENORCA                                         ,502700,3.0,CALLE DE MENORCA                                               
 5969,CALLE                   ,DE LA ,MENTA                                           ,502801,9.0,CALLE DE LA MENTA                                              
 5970,CALLE                   ,DE    ,MENTRIDA                                        ,502900,16.0,CALLE DE MÉNTRIDA                                              
-5971,CALLE                   ,DE    ,MEQUINENZA                                      ,502950,16.0,CALLE DE MEQUINENZA                                            
+5971,CALLE                   ,DE    ,MEQUINENZA                                      ,502950,20.0,CALLE DE MEQUINENZA                                            
 5972,CALLEJON                ,DEL   ,MERCADO                                         ,503000,2.0,CALLEJÓN DEL MERCADO                                           
 5973,CALLE                   ,DE LAS,MERCEDES                                        ,503100,6.0,CALLE DE LAS MERCEDES                                          
 5974,CALLE                   ,DE    ,MERCEDES ARTEAGA                                ,503400,11.0,CALLE DE MERCEDES ARTEAGA                                      
@@ -5981,7 +5981,7 @@
 5979,PLAZA                   ,DE    ,MERCURIO                                        ,504100,21.0,PLAZA DE MERCURIO                                              
 5980,CALLE                   ,DE    ,MERIDA                                          ,504225,14.0,CALLE DE MÉRIDA                                                
 5981,CALLE                   ,DE    ,LOS MESEJO                                      ,504300,3.0,CALLE DE LOS MESEJO                                            
-5982,CALLE                   ,DE    ,MESENA                                          ,504400,16.0,CALLE DE MESENA                                                
+5982,CALLE                   ,DE    ,MESENA                                          ,504400,15.0,CALLE DE MESENA                                                
 5983,PLAZA                   ,DE LA ,MESETA                                          ,504600,9.0,PLAZA DE LA MESETA                                             
 5984,PLAZA                   ,DEL   ,MESIAS                                          ,504800,20.0,PLAZA DEL MESÍAS                                               
 5985,CALLE                   ,DEL   ,MESON DE PAÑOS                                  ,504900,1.0,CALLE DEL MESÓN DE PAÑOS                                       
@@ -6154,7 +6154,7 @@
 6152,CALLE                   ,DE    ,MORETO                                          ,523900,3.0,CALLE DE MORETO                                                
 6153,CALLE                   ,DE    ,MORILES                                         ,524000,10.0,CALLE DE MORILES                                               
 6154,CALLE                   ,DE LA ,MOSCARETA                                       ,524200,10.0,CALLE DE LA MOSCARETA                                          
-6155,CALLE                   ,DE    ,MOSCATELAR                                      ,524300,16.0,CALLE DE MOSCATELAR                                            
+6155,CALLE                   ,DE    ,MOSCATELAR                                      ,524300,21.0,CALLE DE MOSCATELAR                                            
 6156,PLAZA                   ,DE LOS,MOSTENSES                                       ,524500,1.0,PLAZA DE LOS MOSTENSES                                         
 6157,CALLE                   ,DE    ,MOSTOLES                                        ,524600,5.0,CALLE DE MÓSTOLES                                              
 6158,CALLE                   ,DE    ,MOTA DEL CUERVO                                 ,524650,16.0,CALLE DE MOTA DEL CUERVO                                       
@@ -6324,7 +6324,7 @@
 6322,CALLE                   ,DE LOS,OCHO AMIGOS                                     ,544200,10.0,CALLE DE LOS OCHO AMIGOS                                       
 6323,CALLE                   ,      ,OCTAVA                                          ,544300,5.0,CALLE OCTAVA                                                   
 6324,CALLE                   ,DE    ,OCTUBRE                                         ,544400,20.0,CALLE DE OCTUBRE                                               
-6325,CALLE                   ,DE    ,O'DONNELL                                       ,544600,14.0,CALLE DE O'DONNELL                                             
+6325,CALLE                   ,DE    ,O'DONNELL                                       ,544600,3.0,CALLE DE O'DONNELL                                             
 6326,PLAZA                   ,DEL   ,OESTE                                           ,545000,6.0,PLAZA DEL OESTE                                                
 6327,CALLE                   ,DE    ,OFELIA NIETO                                    ,545100,6.0,CALLE DE OFELIA NIETO                                          
 6328,PLAZA                   ,DE    ,OLAVIDE                                         ,545200,7.0,PLAZA DE OLAVIDE                                               
@@ -6545,7 +6545,7 @@
 6543,CALLE                   ,DEL   ,CINABRIO                                        ,569901,9.0,CALLE DEL CINABRIO                                             
 6544,CALLE                   ,DEL   ,PAYASO FOFO                                     ,570250,13.0,CALLE DEL PAYASO FOFÓ                                          
 6545,CALLE                   ,DE LA ,PAZ                                             ,570300,1.0,CALLE DE LA PAZ                                                
-6546,AVENIDA                 ,DE LA ,PAZ                                             ,570400,3.0,AVENIDA DE LA PAZ                                              
+6546,AVENIDA                 ,DE LA ,PAZ                                             ,570400,13.0,AVENIDA DE LA PAZ                                              
 6547,CALLE                   ,DE    ,PEAL                                            ,570700,13.0,CALLE DE PEAL                                                  
 6548,CALLE                   ,DE    ,PECHUAN                                         ,570800,5.0,CALLE DE PECHUÁN                                               
 6549,CALLE                   ,DE    ,EL PEDERNOSO                                    ,570850,16.0,CALLE DE EL PEDERNOSO                                          
@@ -6966,7 +6966,7 @@
 6964,TRAVESIA                ,DE    ,PUERTO RUBIO                                    ,619300,13.0,TRAVESÍA DE PUERTO RUBIO                                       
 6965,CALLE                   ,DEL   ,PUERTO DE SALLENT                               ,619400,13.0,CALLE DEL PUERTO DE SALLENT                                    
 6966,CALLE                   ,DEL   ,PUERTO DE SAN GLORIO                            ,619500,13.0,CALLE DEL PUERTO DE SAN GLORIO                                 
-6967,CALLE                   ,DE    ,PUERTO DE SANTA MARIA                           ,619550,16.0,CALLE DE PUERTO DE SANTA MARÍA                                 
+6967,CALLE                   ,DE    ,PUERTO DE SANTA MARIA                           ,619550,15.0,CALLE DE PUERTO DE SANTA MARÍA                                 
 6968,CALLE                   ,DE    ,PUERTO SERRANO                                  ,619575,2.0,CALLE DE PUERTO SERRANO                                        
 6969,CALLE                   ,DEL   ,PUERTO DE SOLLUBE                               ,619600,13.0,CALLE DEL PUERTO DE SOLLUBE                                    
 6970,CALLE                   ,DEL   ,PUERTO DE SOMIEDO                               ,619700,13.0,CALLE DEL PUERTO DE SOMIEDO                                    
@@ -7053,7 +7053,7 @@
 7051,CALLE                   ,DE    ,RAMON SAINZ                                     ,630700,11.0,CALLE DE RAMÓN SAINZ                                           
 7052,CALLE                   ,DE    ,RAMON DE SANTILLAN                              ,630800,5.0,CALLE DE RAMÓN DE SANTILLÁN                                    
 7053,CALLE                   ,DE    ,RAMON SERRANO                                   ,630900,11.0,CALLE DE RAMÓN SERRANO                                         
-7054,CALLE                   ,DE    ,RAMONET                                         ,631200,16.0,CALLE DE RAMONET                                               
+7054,CALLE                   ,DE    ,RAMONET                                         ,631200,15.0,CALLE DE RAMONET                                               
 7055,CALLE                   ,DE    ,RAMOS CARRION                                   ,631400,5.0,CALLE DE RAMOS CARRIÓN                                         
 7056,CALLE                   ,DEL   ,RANCHO                                          ,631425,12.0,CALLE DEL RANCHO                                               
 7057,CALLE                   ,DE    ,RASCAFRIA                                       ,631440,8.0,CALLE DE RASCAFRÍA                                             
@@ -7483,7 +7483,7 @@
 7481,CALLE                   ,DE    ,SAN LORENZO                                     ,676500,1.0,CALLE DE SAN LORENZO                                           
 7482,CALLE                   ,DE    ,SAN LUCAS                                       ,676600,1.0,CALLE DE SAN LUCAS                                             
 7483,CALLE                   ,DE    ,SAN LUCIANO                                     ,676750,17.0,CALLE DE SAN LUCIANO                                           
-7484,AVENIDA                 ,DE    ,SAN LUIS                                        ,676900,5.0,AVENIDA DE SAN LUIS                                            
+7484,AVENIDA                 ,DE    ,SAN LUIS                                        ,676900,15.0,AVENIDA DE SAN LUIS                                            
 7485,CALLE                   ,DE    ,SAN LUIS GONZAGA                                ,677200,10.0,CALLE DE SAN LUIS GONZAGA                                      
 7486,CALLE                   ,DE    ,SAN MACARIO                                     ,677300,17.0,CALLE DE SAN MACARIO                                           
 7487,CALLE                   ,DE    ,SAN MAGIN                                       ,677400,12.0,CALLE DE SAN MAGÍN                                             
@@ -7499,7 +7499,7 @@
 7497,CALLE                   ,DEL   ,POSTIGO DE SAN MARTIN                           ,678300,1.0,CALLE DEL POSTIGO DE SAN MARTÍN                                
 7498,CALLE                   ,DE    ,SAN MARTIN DE PORRES                            ,678400,9.0,CALLE DE SAN MARTÍN DE PORRES                                  
 7499,PASAJE                  ,DE    ,SAN MARTIN DE VALDEIGLESIAS                     ,678500,5.0,PASAJE DE SAN MARTÍN DE VALDEIGLESIAS                          
-7500,AVENIDA                 ,DE    ,LOS ROSALES                                     ,678700,17.0,AVENIDA DE LOS ROSALES                                         
+7500,AVENIDA                 ,DE    ,LOS ROSALES                                     ,678700,12.0,AVENIDA DE LOS ROSALES                                         
 7501,CALLE                   ,DE    ,SAN MATEO                                       ,678800,1.0,CALLE DE SAN MATEO                                             
 7502,TRAVESIA                ,DE    ,SAN MATEO                                       ,678900,1.0,TRAVESÍA DE SAN MATEO                                          
 7503,CALLE                   ,DE    ,SAN MAXIMILIANO                                 ,679250,15.0,CALLE DE SAN MAXIMILIANO                                       
@@ -7886,7 +7886,7 @@
 7884,CALLE                   ,DE LA ,SIERRA DE SEGURA                                ,720000,13.0,CALLE DE LA SIERRA DE SEGURA                                   
 7885,CALLE                   ,DE LA ,SIERRA DE LA SOLANA                             ,720100,13.0,CALLE DE LA SIERRA DE LA SOLANA                                
 7886,CALLE                   ,DE LA ,SIERRA DE TEJEDA                                ,720200,13.0,CALLE DE LA SIERRA DE TEJEDA                                   
-7887,CALLE                   ,DE LA ,SIERRA TOLEDANA                                 ,720400,14.0,CALLE DE LA SIERRA TOLEDANA                                    
+7887,CALLE                   ,DE LA ,SIERRA TOLEDANA                                 ,720400,13.0,CALLE DE LA SIERRA TOLEDANA                                    
 7888,CALLE                   ,DE LA ,SIERRA DE TOLOÑO                                ,720500,13.0,CALLE DE LA SIERRA DE TOLOÑO                                   
 7889,CALLE                   ,DE LA ,SIERRA DEL TORCAL                               ,720550,18.0,CALLE DE LA SIERRA DEL TORCAL                                  
 7890,CALLE                   ,DE LA ,SIERRA DE TORNAVACAS                            ,720575,18.0,CALLE DE LA SIERRA DE TORNAVACAS                               
@@ -8080,7 +8080,7 @@
 8078,PLAZA                   ,DE    ,TIRSO DE MOLINA                                 ,742900,1.0,PLAZA DE TIRSO DE MOLINA                                       
 8079,CALLE                   ,DE    ,TIRVIA                                          ,743000,9.0,CALLE DE TIRVIA                                                
 8080,CALLE                   ,DE    ,TISCAR                                          ,743100,13.0,CALLE DE TISCAR                                                
-8081,CALLE                   ,DE    ,TITANIA                                         ,743200,15.0,CALLE DE TITANIA                                               
+8081,CALLE                   ,DE    ,TITANIA                                         ,743200,16.0,CALLE DE TITANIA                                               
 8082,CALLE                   ,DE    ,JOSE GARCIA GRANDA                              ,743201,13.0,CALLE DE JOSÉ GARCÍA GRANDA                                    
 8083,CALLE                   ,DE    ,TITULCIA                                        ,743300,3.0,CALLE DE TITULCIA                                              
 8084,CALLE                   ,DE    ,TIZIANO                                         ,743400,6.0,CALLE DE TIZIANO                                               
@@ -8355,9 +8355,9 @@
 8353,CALLEJON                ,DE    ,VICALVARO                                       ,778750,21.0,CALLEJÓN DE VICÁLVARO                                          
 8354,CALLE                   ,DE    ,VICALVARO                                       ,778775,4.0,CALLE DE VICÁLVARO                                             
 8355,CAMINO                  ,      ,VIEJO DE VICALVARO                              ,778900,19.0,CAMINO VIEJO DE VICÁLVARO                                      
-8356,AVENIDA                 ,DE    ,CANILLEJAS A VICALVARO                          ,778910,21.0,AVENIDA DE CANILLEJAS A VICÁLVARO                              
+8356,AVENIDA                 ,DE    ,CANILLEJAS A VICALVARO                          ,778910,19.0,AVENIDA DE CANILLEJAS A VICÁLVARO                              
 8357,CARRETERA               ,DE    ,VICALVARO A RIVAS DEL JARAMA                    ,778930,19.0,CARRETERA DE VICÁLVARO A RIVAS DEL JARAMA                      
-8358,AVENIDA                 ,DE LA ,DEMOCRACIA                                      ,778950,19.0,AVENIDA DE LA DEMOCRACIA                                       
+8358,AVENIDA                 ,DE LA ,DEMOCRACIA                                      ,778950,20.0,AVENIDA DE LA DEMOCRACIA                                       
 8359,CALLE                   ,DE    ,VICENTA JIMENEZ                                 ,779000,11.0,CALLE DE VICENTA JIMÉNEZ                                       
 8360,CALLE                   ,DE    ,VICENTA PACHON                                  ,779100,11.0,CALLE DE VICENTA PACHÓN                                        
 8361,CALLE                   ,DE    ,VICENTA PARRA                                   ,779200,11.0,CALLE DE VICENTA PARRA                                         
@@ -8449,7 +8449,7 @@
 8447,CALLE                   ,DE    ,VILLAVALIENTE                                   ,788900,10.0,CALLE DE VILLAVALIENTE                                         
 8448,CALLE                   ,DE    ,VILLAVENDIMIO                                   ,788950,17.0,CALLE DE VILLAVENDIMIO                                         
 8449,CALLE                   ,DE    ,EDUARDO BARREIROS                               ,789100,1.0,CALLE DE EDUARDO BARREIROS                                     
-8450,CARRETERA               ,DE    ,VILLAVERDE A VALLECAS                           ,789500,17.0,CARRETERA DE VILLAVERDE A VALLECAS                             
+8450,CARRETERA               ,DE    ,VILLAVERDE A VALLECAS                           ,789500,13.0,CARRETERA DE VILLAVERDE A VALLECAS                             
 8451,CALLE                   ,DE    ,VILLAVEZA                                       ,789550,17.0,CALLE DE VILLAVEZA                                             
 8452,CALLE                   ,DE    ,VILLAVICIOSA                                    ,789600,10.0,CALLE DE VILLAVICIOSA                                          
 8453,CALLE                   ,DE    ,VILLAVIEJA                                      ,789800,10.0,CALLE DE VILLAVIEJA                                            
@@ -8690,7 +8690,7 @@
 8688,CAMINO                  ,DE    ,VALLECAS A MEJORADA DEL CAMPO                   ,905286,19.0,CAMINO DE VALLECAS A MEJORADA DEL CAMPO                        
 8689,CAMINO                  ,DE LA ,ERMITA                                          ,905287,19.0,CAMINO DE LA ERMITA                                            
 8690,CAMINO                  ,      ,VIEJO DE VICALVARO A ARGANDA                    ,905289,19.0,CAMINO VIEJO DE VICÁLVARO A ARGANDA                            
-8691,CARRETERA               ,DE    ,VICALVARO A COSLADA                             ,905294,19.0,CARRETERA DE VICÁLVARO A COSLADA                               
+8691,CARRETERA               ,DE    ,VICALVARO A COSLADA                             ,905294,20.0,CARRETERA DE VICÁLVARO A COSLADA                               
 8692,PLAZA                   ,DEL   ,CORREGIDOR ALONSO DE TOBAR                      ,905313,14.0,PLAZA DEL CORREGIDOR ALONSO DE TOBAR                           
 8693,CAMINO                  ,      ,VIEJO DE VALLECAS A RIVAS DEL JARAMA            ,905316,19.0,CAMINO VIEJO DE VALLECAS A RIVAS DEL JARAMA                    
 8694,CARRETERA               ,DE    ,MADRID A RIVAS DEL JARAMA                       ,905317,19.0,CARRETERA DE MADRID A RIVAS DEL JARAMA                         
@@ -8894,7 +8894,7 @@
 8892,CAMINO                  ,DE LA ,LAGUNA                                          ,906189,16.0,CAMINO DE LA LAGUNA                                            
 8893,TRAVESIA                ,DE    ,MONOVAR                                         ,906213,16.0,TRAVESÍA DE MONÓVAR                                            
 8894,CARRETERA               ,DEL   ,MEDIODIA                                        ,906227,16.0,CARRETERA DEL MEDIODÍA                                         
-8895,CAMINO                  ,      ,ALTO DE HORTALEZA                               ,906231,16.0,CAMINO ALTO DE HORTALEZA                                       
+8895,CAMINO                  ,      ,ALTO DE HORTALEZA                               ,906231,21.0,CAMINO ALTO DE HORTALEZA                                       
 8896,PLAZA                   ,DE    ,GUAPOTA                                         ,906236,16.0,PLAZA DE GUAPOTA                                               
 8897,PLAZA                   ,DE    ,EL CAPRICHO                                     ,906252,21.0,PLAZA DE EL CAPRICHO                                           
 8898,CAMINO                  ,DE    ,COSLADA                                         ,906255,20.0,CAMINO DE COSLADA                                              
@@ -8911,7 +8911,7 @@
 8909,PUENTE                  ,DE    ,KARLA                                           ,909159,15.0,PUENTE DE KARLA                                                
 8910,PUENTE                  ,      ,PASARELA DE VALDERRIBAS                         ,909160,1.0,PUENTE PASARELA DE VALDERRIBAS                                 
 8911,PUENTE                  ,      ,PASARELA DEL PIRAMIDON                          ,909161,8.0,PUENTE PASARELA DEL PIRAMIDÓN                                  
-8912,CARRETERA               ,DE    ,VICALVARO A LA ESTACION DE O'DONNELL            ,978785,20.0,CARRETERA DE VICÁLVARO A LA ESTACIÓN DE O'DONNELL              
+8912,CARRETERA               ,DE    ,VICALVARO A LA ESTACION DE O'DONNELL            ,978785,19.0,CARRETERA DE VICÁLVARO A LA ESTACIÓN DE O'DONNELL              
 8913,CALLE                   ,DE LA ,PRINCESA DE EBOLI                               ,31000002,16.0,CALLE DE LA PRINCESA DE ÉBOLI                                  
 8914,CALLE                   ,DEL   ,DODGE                                           ,31000004,12.0,CALLE DEL DODGE                                                
 8915,CALLE                   ,DEL   ,HORIZON                                         ,31000005,12.0,CALLE DEL HORIZÓN                                              
@@ -9064,7 +9064,7 @@
 9062,CALLE                   ,DEL   ,JACOBEO                                         ,31000188,10.0,CALLE DEL JACOBEO                                              
 9063,CALLE                   ,DE    ,SAN CRISTOBAL DE LA LAGUNA                      ,31000189,11.0,CALLE DE SAN CRISTÓBAL DE LA LAGUNA                            
 9064,CALLE                   ,DEL   ,ACUEDUCTO DE SEGOVIA                            ,31000190,11.0,CALLE DEL ACUEDUCTO DE SEGOVIA                                 
-9065,CARRETERA               ,DE    ,ANDALUCIA                                       ,31000192,18.0,CARRETERA DE ANDALUCÍA                                         
+9065,CARRETERA               ,DE    ,ANDALUCIA                                       ,31000192,17.0,CARRETERA DE ANDALUCÍA                                         
 9066,CALLE                   ,DE    ,MARIA LEJARRAGA                                 ,31000196,11.0,CALLE DE MARÍA LEJARRAGA                                       
 9067,CALLE                   ,DE    ,PILAR PEREZ LAVID                               ,31000197,11.0,CALLE DE PILAR PÉREZ LAVID                                     
 9068,CALLE                   ,DE    ,LUISA DE CARVAJAL                               ,31000198,20.0,CALLE DE LUISA DE CARVAJAL                                     
@@ -9451,7 +9451,7 @@
 9449,CALLE                   ,DEL   ,CABALLERO DE LA CRUZ                            ,31001050,17.0,CALLE DEL CABALLERO DE LA CRUZ                                 
 9450,CALLE                   ,DEL   ,CABALLERO DEL BOSQUE                            ,31001051,17.0,CALLE DEL CABALLERO DEL BOSQUE                                 
 9451,CALLE                   ,DEL   ,CABALLERO DEL VERDE GABAN                       ,31001052,17.0,CALLE DEL CABALLERO DEL VERDE GABÁN                            
-9452,AUTOVIA                 ,      ,M-12                                            ,31001093,16.0,AUTOVÍA M-12                                                   
+9452,AUTOVIA                 ,      ,M-12                                            ,31001093,18.0,AUTOVÍA M-12                                                   
 9453,AVENIDA                 ,DEL   ,CAMPUS SUR                                      ,31001238,13.0,AVENIDA DEL CAMPUS SUR                                         
 9454,CALLE                   ,DE    ,ALAN TURING                                     ,31001239,13.0,CALLE DE ALAN TURING                                           
 9455,AVENIDA                 ,DE LA ,POLITECNICA                                     ,31001240,13.0,AVENIDA DE LA POLITÉCNICA                                      
@@ -9497,18 +9497,18 @@
 9495,AUTOVIA                 ,      ,A-6                                             ,31001339,9.0,AUTOVÍA A-6                                                    
 9496,AUTOVIA                 ,      ,A-5                                             ,31001340,9.0,AUTOVÍA A-5                                                    
 9497,AUTOVIA                 ,      ,A-42                                            ,31001341,17.0,AUTOVÍA A-42                                                   
-9498,AUTOVIA                 ,      ,A-3                                             ,31001342,14.0,AUTOVÍA A-3                                                    
+9498,AUTOVIA                 ,      ,A-3                                             ,31001342,13.0,AUTOVÍA A-3                                                    
 9499,CALLE                   ,DEL   ,DOCTOR JUAN JOSE LOPEZ IBOR                     ,31001343,8.0,CALLE DEL DOCTOR JUAN JOSÉ LÓPEZ IBOR                          
 9500,CARRETERA               ,      ,M-612                                           ,31001344,8.0,CARRETERA M-612                                                
 9501,CARRETERA               ,      ,M-616                                           ,31001345,8.0,CARRETERA M-616                                                
 9502,CALLE                   ,      ,KILO                                            ,31001346,21.0,CALLE KILO                                                     
 9503,CALLE                   ,      ,JULIET                                          ,31001347,21.0,CALLE JULIET                                                   
 9504,CALLE                   ,      ,MIKE                                            ,31001348,21.0,CALLE MIKE                                                     
-9505,AUTOVIA                 ,      ,M-30                                            ,31001349,1.0,AUTOVÍA M-30                                                   
+9505,AUTOVIA                 ,      ,M-30                                            ,31001349,9.0,AUTOVÍA M-30                                                   
 9506,CALLE                   ,DE    ,AGATHA CHRISTIE                                 ,31001351,16.0,CALLE DE AGATHA CHRISTIE                                       
 9507,CARRETERA               ,      ,M-111                                           ,31001352,21.0,CARRETERA M-111                                                
 9508,CARRETERA               ,      ,M-110                                           ,31001353,21.0,CARRETERA M-110                                                
-9509,AUTOPISTA               ,      ,R-5                                             ,31001356,19.0,AUTOPISTA R-5                                                  
+9509,AUTOPISTA               ,      ,R-5                                             ,31001356,11.0,AUTOPISTA R-5                                                  
 9510,AUTOPISTA               ,      ,R-3                                             ,31001357,20.0,AUTOPISTA R-3                                                  
 9511,AUTOPISTA               ,      ,R-2                                             ,31001359,16.0,AUTOPISTA R-2                                                  
 9512,GLORIETA                ,DE    ,ROCIO DURCAL                                    ,31001360,6.0,GLORIETA DE ROCÍO DÚRCAL                                       
@@ -9541,7 +9541,7 @@
 9539,AVENIDA                 ,DE    ,FRANCISCO JAVIER SAENZ DE OIZA                  ,31001592,16.0,AVENIDA DE FRANCISCO JAVIER SÁENZ DE OIZA                      
 9540,CALLE                   ,DE    ,MARIA DE LAS MERCEDES DE BORBON                 ,31001593,16.0,CALLE DE MARÍA DE LAS MERCEDES DE BORBÓN                       
 9541,CALLE                   ,DE    ,JULIO CANO LASSO                                ,31001594,21.0,CALLE DE JULIO CANO LASSO                                      
-9542,AVENIDA                 ,DE    ,JUAN ANTONIO SAMARANCH                          ,31001595,21.0,AVENIDA DE JUAN ANTONIO SAMARANCH                              
+9542,AVENIDA                 ,DE    ,JUAN ANTONIO SAMARANCH                          ,31001595,16.0,AVENIDA DE JUAN ANTONIO SAMARANCH                              
 9543,AVENIDA                 ,DE    ,JOSE ANTONIO CORRALES                           ,31001596,16.0,AVENIDA DE JOSÉ ANTONIO CORRALES                               
 9544,AVENIDA                 ,DE    ,LAS FUERZAS ARMADAS                             ,31001598,21.0,AVENIDA DE LAS FUERZAS ARMADAS                                 
 9545,AUTOVIA                 ,      ,M-13                                            ,31001603,21.0,AUTOVÍA M-13                                                   
@@ -9574,7 +9574,7 @@
 9572,CARRETERA               ,      ,M-31                                            ,31001727,18.0,CARRETERA M-31                                                 
 9573,CALLE                   ,DE    ,FERNANDO HIGUERAS                               ,31001731,16.0,CALLE DE FERNANDO HIGUERAS                                     
 9574,CALLE                   ,DE    ,MARIA REICHE                                    ,31001732,16.0,CALLE DE MARÍA REICHE                                          
-9575,CALLE                   ,DE    ,ESTANISLAO PEREZ PITA                           ,31001733,21.0,CALLE DE ESTANISLAO PÉREZ PITA                                 
+9575,CALLE                   ,DE    ,ESTANISLAO PEREZ PITA                           ,31001733,16.0,CALLE DE ESTANISLAO PÉREZ PITA                                 
 9576,CALLE                   ,DE    ,JOSE ANTONIO FERNANDEZ ORDOÑEZ                  ,31001734,16.0,CALLE DE JOSÉ ANTONIO FERNÁNDEZ ORDÓÑEZ                        
 9577,CALLE                   ,DE    ,JORDI SOLE TURA                                 ,31001735,16.0,CALLE DE JORDI SOLÉ TURA                                       
 9578,CALLE                   ,DE    ,ELENA CORNARO                                   ,31001736,16.0,CALLE DE ELENA CORNARO                                         
@@ -9680,8 +9680,8 @@
 9678,CALLE                   ,DEL   ,CERRO DE LA GAVIA                               ,31001853,18.0,CALLE DEL CERRO DE LA GAVIA                                    
 9679,CALLE                   ,DE    ,SOUTELO DE MONTES                               ,31001854,18.0,CALLE DE SOUTELO DE MONTES                                     
 9680,CALLE                   ,DEL   ,LITIO                                           ,31001893,2.0,CALLE DEL LITIO                                                
-9681,AVENIDA                 ,DE    ,ALEJANDRO DE LA SOTA                            ,31001895,21.0,AVENIDA DE ALEJANDRO DE LA SOTA                                
-9682,CALLE                   ,DE    ,FRANCISCO UMBRAL                                ,31001896,16.0,CALLE DE FRANCISCO UMBRAL                                      
+9681,AVENIDA                 ,DE    ,ALEJANDRO DE LA SOTA                            ,31001895,16.0,AVENIDA DE ALEJANDRO DE LA SOTA                                
+9682,CALLE                   ,DE    ,FRANCISCO UMBRAL                                ,31001896,21.0,CALLE DE FRANCISCO UMBRAL                                      
 9683,CALLE                   ,DE    ,GUSTAVO PEREZ PUIG                              ,31001897,21.0,CALLE DE GUSTAVO PÉREZ PUIG                                    
 9684,CALLE                   ,DE    ,RAMON VAZQUEZ MOLEZUN                           ,31001898,21.0,CALLE DE RAMÓN VÁZQUEZ MOLEZÚN                                 
 9685,CALLE                   ,DEL   ,MARQUES DE FONTALBA                             ,31001899,21.0,CALLE DEL MARQUÉS DE FONTALBA                                  
@@ -9727,7 +9727,7 @@
 9725,CAMINO                  ,DE    ,TORRELAPARADA                                   ,31003007,8.0,CAMINO DE TORRELAPARADA                                        
 9726,CAMINO                  ,DE LA ,TAPIA DE TIERRA                                 ,31003018,8.0,CAMINO DE LA TAPIA DE TIERRA                                   
 9727,CAMINO                  ,DE LA ,CUERDA DE VALDECORRAL                           ,31003020,8.0,CAMINO DE LA CUERDA DE VALDECORRAL                             
-9728,AUTOVIA                 ,      ,M-22                                            ,31003081,21.0,AUTOVÍA M-22                                                   
+9728,AUTOVIA                 ,      ,M-22                                            ,31003081,20.0,AUTOVÍA M-22                                                   
 9729,CAMINO                  ,DEL   ,SOTO                                            ,31003108,8.0,CAMINO DEL SOTO                                                
 9730,CAMINO                  ,DE LA ,SEÑORA                                          ,31003119,8.0,CAMINO DE LA SEÑORA                                            
 9731,CAMINO                  ,DEL   ,VIVERO                                          ,31003120,8.0,CAMINO DEL VIVERO                                              
@@ -9798,7 +9798,7 @@
 9796,CALLE                   ,DE    ,ANGELA RUIZ ROBLES                              ,31003704,17.0,CALLE DE ÁNGELA RUIZ ROBLES                                    
 9797,CALLE                   ,DE    ,BOETTICHER Y NAVARRO                            ,31003705,17.0,CALLE DE BOETTICHER Y NAVARRO                                  
 9798,CALLE                   ,DE    ,TREN OBRERO                                     ,31003706,17.0,CALLE DE TREN OBRERO                                           
-9799,PARQUE                  ,      ,MADRID RIO                                      ,31003715,10.0,PARQUE MADRID RÍO                                              
+9799,PARQUE                  ,      ,MADRID RIO                                      ,31003715,12.0,PARQUE MADRID RÍO                                              
 9800,CALLE                   ,DE    ,EL SITIO DE BALER                               ,31003729,18.0,CALLE DE EL SITIO DE BALER                                     
 9801,CALLE                   ,      ,PROVISIONAL LOS CALEROS                         ,31003765,9.0,CALLE PROVISIONAL LOS CALEROS                                  
 9802,CALLE                   ,DE    ,PLAYA DE TORIMBIA                               ,31003888,21.0,CALLE DE PLAYA DE TORIMBIA                                     
